@@ -3,7 +3,7 @@ Esto es una aplicación web construido con el framework Next.js y Typescript que
 
 ## Instalación
 #### 1. Clona este repositorio en tu máquina local
-[RickAndMortyBackendExpress](https://github.com/juliodacer/RickAndMortyBackendExpress.git)
+[RickAndMortyFrontendNextjs](https://github.com/juliodacer/rickAndMortyFrontedNextjs.git)
 
 ### 2. Navega al directorio del proyecto:
 ```cd tu-repositorio```
